@@ -104,7 +104,7 @@ div {
 .button-saiba-mais {
     text-align: center;
     margin-left: 50px;
-    width: 200px;
+    width: 50%;
     margin-top: 20px;
 }
 
@@ -175,7 +175,7 @@ h3 {
     }
 
     button {
-        height: 10vh;
+        height: 9vh;
     }
 
     h1 {
@@ -206,15 +206,19 @@ h3 {
     }
 
     .text-all {
-        margin-left: -50vw;
+        margin-left: -92vw;
+        margin-top: 2vh;
         width: 90vw;
 
     }
 
     .button-saiba-mais {
-        margin-left: -51vw;
+        
         font-size: 20px;
         height: 6vh;
+        width: 40vw;
+        margin-top: 28vh;
+        margin-left: -76vw;
     }
 
     .transform {
@@ -235,7 +239,7 @@ h3 {
     .image-instagram {
         margin: 0;
         padding: 0;
-        margin-left: 8vw;
+        margin-left: 3vw;
         margin-top: 1vh;
 
     }
@@ -257,7 +261,7 @@ h3 {
         height: 12vh;
         width: 80vw;
         top: 10vh;
-        right: 2vw;
+        right: 5vw;
         padding: 10px;
 
     }
